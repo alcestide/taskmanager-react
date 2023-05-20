@@ -5,7 +5,7 @@ A project conceived as plain practice material, in order for me to improve my **
 ## The Application
 
 This app uses [**MongoDB Atlas**](https://www.mongodb.com/atlas/database) as a _cloud database server_. You have to add your own `MONGO_URI` environment variable inside the .env file so that the application can interface with the database. Based on a project by [ZinoTrust](https://github.com/zinotrust).
-The actual version implements the following functions/interactions:
+The current version implements the following functions/interactions:
 
 - **Add** a Task
 - **Mark** as **Completed**
